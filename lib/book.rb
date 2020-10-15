@@ -26,3 +26,5 @@ end
 
 outward = Book.new("Outward")
 outward.page_count = 245 
+
+puts outward.page_count
