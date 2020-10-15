@@ -11,3 +11,6 @@ class Book
     @title
   end
 end
+
+
+outward = Book.new("Outward")
