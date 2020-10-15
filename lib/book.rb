@@ -14,3 +14,5 @@ end
 
 
 outward = Book.new("Outward")
+
+puts outward.title 
